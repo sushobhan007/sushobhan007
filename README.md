@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Backend Technologies
 - 📫 Reach me on 
-- Instagram --> https://www.instagram.com/sushobhan_mudi007/
+- Instagram --> https://www.instagram.com/lone_wolf___000/
 - Twitter --> https://twitter.com/SushobhanMudi01
 
 <!---
