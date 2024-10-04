@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushobhan</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushobhan007" alt="sushobhan007" /></a> </p>
-
 - 🌱 I’m currently learning **Backend as well as Frontend**
 
 - 💬 Ask me about **Java, Spring Boot**
