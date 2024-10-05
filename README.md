@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Sushobhan 😌
 ===========================================================================================================================================
-<h3 align="center">A passionate software developer from India</h3>
+A passionate software developer from India
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🌱 I’m currently learning **Backend as well as Frontend**
 
