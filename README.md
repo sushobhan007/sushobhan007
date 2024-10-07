@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate software developer 💻
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🌱 I’m currently learning **Backend as well as Frontend**
+- 🌱 I’m currently learning **Microservices as well as Frontend**
 
 - 💬 Ask me about **Java, Spring Boot**
 
